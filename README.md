@@ -9,8 +9,11 @@ Created a mockup social media landing page. No functionality other than the basi
 
 Resources Used:
 Bootstrap msdn – to import and allowed us to integrate the bootstrap functionality 
-BalasamiqCloud- to create a rough sketch of the landing page. 
+
+BalasamiqCloud- to create a rough sketch of the landing page.(See: MockupPlan.pdf) 
+
 Logo: fontawesome.com
+
 Images: Google
 
 Viewports:
